@@ -1,0 +1,17 @@
+pre
+
+| words.txt | story.txt |       ArrayList | 0 mins 00.0059775 secs | 0 mins 00.0006125 secs |
+| words.txt | story.txt |      LinkedList | 0 mins 00.0007160 secs | 0 mins 00.0008084 secs |
+| words.txt | story.txt | SortedArrayList | 0 mins 00.0008240 secs | 0 mins 00.0001991 secs |
+| story.txt | words.txt |       ArrayList | 0 mins 00.0006084 secs | 0 mins 00.0000226 secs |
+| story.txt | words.txt |      LinkedList | 0 mins 00.0004430 secs | 0 mins 00.0000887 secs |
+| story.txt | words.txt | SortedArrayList | 0 mins 00.0019743 secs | 0 mins 00.0000402 secs |
+
+after
+
+| words.txt | kjV10.txt |       ArrayList | 0 mins 00.0061109 secs | 0 mins 00.0169623 secs |
+| words.txt | kjV10.txt |      LinkedList | 0 mins 00.0007542 secs | 0 mins 00.0601972 secs |
+| words.txt | kjV10.txt | SortedArrayList | 0 mins 00.0008465 secs | 0 mins 00.0948477 secs |
+| kjV10.txt | words.txt |       ArrayList | 0 mins 00.0531950 secs | 0 mins 00.0047606 secs |
+| kjV10.txt | words.txt |      LinkedList | 0 mins 00.0383454 secs | 0 mins 00.0211408 secs |
+| kjV10.txt | words.txt | SortedArrayList | 0 mins 30.1358838 secs | 0 mins 00.0052463 secs |
